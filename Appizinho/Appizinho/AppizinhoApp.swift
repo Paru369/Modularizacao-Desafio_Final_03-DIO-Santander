@@ -6,7 +6,9 @@
 //
 
 import SwiftUI
+import Network
 
+let aaaaa:  = <#initializer#>CharacterServiceResult
 @main
 struct AppizinhoApp: App {
     var body: some Scene {
