@@ -1,4 +1,4 @@
-# Network
+# Network - Module by Cocoapods 
 
 [![CI Status](https://img.shields.io/travis/parutech/Network.svg?style=flat)](https://travis-ci.org/parutech/Network)
 [![Version](https://img.shields.io/cocoapods/v/Network.svg?style=flat)](https://cocoapods.org/pods/Network)
